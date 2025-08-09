@@ -4,7 +4,20 @@
 
 This repository contains the final project for the **Logic Circuit Design** course, developed in collaboration with **FIGES ENGINEERING**. The project demonstrates comprehensive digital circuit design principles using MATLAB Simulink, showcasing various digital components and their practical applications.
 
+<div align="center">
+  
+![Seven Segment Display Interface](images/seven_segment_display.png)
+*Interactive Seven-Segment Display Control Interface*
+
+![FIGES Engineering](images/Figes.jpeg)
+*Industry Partner - FIGES Engineering*
+
+</div>
+
 ## 🏗️ System Architecture
+
+![Complete Circuit Diagram](images/complete_circuit.png)
+*Complete Digital Logic Circuit Implementation in MATLAB Simulink*
 
 The project consists of several interconnected digital circuit modules:
 
@@ -54,10 +67,10 @@ The project consists of several interconnected digital circuit modules:
 Logic-Circuit-Design/
 ├── Figes.slx                 # Main Simulink model file
 ├── README.md                 # Project documentation
-└── Documentation/            # Additional project documents
-    ├── Circuit_Diagrams/     # Block diagrams and schematics
-    ├── Truth_Tables/         # Logic truth tables
-    └── Test_Results/         # Simulation results and verification
+├── images/                   # Project images and diagrams
+│   ├── Figes.jpeg           # FIGES Engineering logo
+│   ├── seven_segment_display.png # Display interface
+│   └── complete_circuit.png  # Full circuit diagram
 ```
 
 ## 🚀 Getting Started
@@ -85,16 +98,6 @@ Logic-Circuit-Design/
    - Click the "Run" button in Simulink
    - Interact with push buttons to test functionality
    - Observe LED displays and indicators
-
-## 🖼️ Project Screenshots
-
-### System Interface
-![7-Segment Display Output](images/7segment_display.png)
-*Figure 1: 7-segment display showing decimal numbers with control buttons*
-
-### Complete Circuit Diagram
-![Circuit Block Diagram](images/circuit_diagram.png)
-*Figure 2: Complete Simulink block diagram of the digital logic circuit*
 
 ## 🎮 How to Use
 
@@ -199,8 +202,7 @@ Special thanks to:
 ---
 
 **Course**: Logic Circuit Design  
-**Institution**: [Your University Name]  
-**Semester**: [Current Semester/Year]  
+**Institution**: Kadir Has University  
 **Industry Partner**: FIGES ENGINEERING
 
-For questions or collaboration opportunities, please contact [your-email@example.com]
+For questions or collaboration opportunities, please contact [toprakkamburoglu@gmail.com]
