@@ -27,8 +27,6 @@ This repository contains the final project for the **Logic Circuit Design** cour
 <br></br>
 </div>
 
-The project consists of several interconnected digital circuit modules:
-
 ### Core Components
 
 #### 1. **Counter System**
