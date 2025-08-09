@@ -5,10 +5,6 @@
 This repository contains the final project for the **Logic Circuit Design** course, developed in collaboration with **FIGES ENGINEERING**. The project demonstrates comprehensive digital circuit design principles using MATLAB Simulink, showcasing various digital components and their practical applications.
 
 <div align="center">
-  
-![Seven Segment Display Interface](images/7segment_display.png)
-
-*Interactive Seven-Segment Display Control Interface*
 
 ![FIGES Engineering](images/Figes.jpg)
 
