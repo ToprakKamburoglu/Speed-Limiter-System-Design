@@ -86,6 +86,16 @@ Logic-Circuit-Design/
    - Interact with push buttons to test functionality
    - Observe LED displays and indicators
 
+## 🖼️ Project Screenshots
+
+### System Interface
+![7-Segment Display Output](images/7segment_display.png)
+*Figure 1: 7-segment display showing decimal numbers with control buttons*
+
+### Complete Circuit Diagram
+![Circuit Block Diagram](images/circuit_diagram.png)
+*Figure 2: Complete Simulink block diagram of the digital logic circuit*
+
 ## 🎮 How to Use
 
 ### Operating the Counter
@@ -189,5 +199,8 @@ Special thanks to:
 ---
 
 **Course**: Logic Circuit Design  
-**Institution**: Kadir Has University  
+**Institution**: [Your University Name]  
+**Semester**: [Current Semester/Year]  
 **Industry Partner**: FIGES ENGINEERING
+
+For questions or collaboration opportunities, please contact [your-email@example.com]
