@@ -6,8 +6,6 @@ This repository contains the final project for the **Logic Circuit Design** cour
 
 <div align="center">
 
-<br></br>
-
 ![FIGES Engineering](images/Figes.jpg)
 
 *Industry Partner - FIGES Engineering* 
@@ -26,6 +24,8 @@ This repository contains the final project for the **Logic Circuit Design** cour
 
 <br></br>
 </div>
+
+The project consists of several interconnected digital circuit modules:
 
 ### Core Components
 
