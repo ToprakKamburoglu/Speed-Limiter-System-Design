@@ -6,17 +6,17 @@ This repository contains the final project for the **Logic Circuit Design** cour
 
 <div align="center">
   
-![Seven Segment Display Interface](images/seven_segment_display.png)
+![Seven Segment Display Interface](images/7segment_display.png)
 *Interactive Seven-Segment Display Control Interface*
 
-![FIGES Engineering](images/Figes.jpeg)
+![FIGES Engineering](images/Figes.jpg)
 *Industry Partner - FIGES Engineering*
 
 </div>
 
 ## 🏗️ System Architecture
 
-![Complete Circuit Diagram](images/complete_circuit.png)
+![Complete Circuit Diagram](images/circuit_diagram.png)
 *Complete Digital Logic Circuit Implementation in MATLAB Simulink*
 
 The project consists of several interconnected digital circuit modules:
