@@ -71,12 +71,8 @@ Logic-Circuit-Design/
 ├── README.md                 # Project documentation
 ├── images/                   # Project images and diagrams
 │   ├── Figes.jpeg           # FIGES Engineering logo
-│   ├── seven_segment_display.png # Display interface
-│   └── complete_circuit.png  # Full circuit diagram
-└── Documentation/            # Additional project documents
-    ├── Circuit_Diagrams/     # Block diagrams and schematics
-    ├── Truth_Tables/         # Logic truth tables
-    └── Test_Results/         # Simulation results and verification
+│   ├── 7segment_display.png # Display interface
+│   └── circuit_diagram.png  # Full circuit diagram
 ```
 
 ## 🚀 Getting Started
@@ -208,8 +204,7 @@ Special thanks to:
 ---
 
 **Course**: Logic Circuit Design  
-**Institution**: [Your University Name]  
-**Semester**: [Current Semester/Year]  
+**Institution**: Kadir Has University  
 **Industry Partner**: FIGES ENGINEERING
 
-For questions or collaboration opportunities, please contact [your-email@example.com]
+For questions or collaboration opportunities, please contact toprakkamburoglu@gmail.com
