@@ -18,7 +18,7 @@ This repository contains the final project for the **Logic Circuit Design** cour
 
 ## 🏗️ System Architecture
 
-![Complete Circuit Diagram](images/complete_circuit.png)
+![Complete Circuit Diagram](images/circuit_diagram.png)
 *Complete Digital Logic Circuit Implementation in MATLAB Simulink*
 
 The project consists of several interconnected digital circuit modules:
