@@ -180,11 +180,11 @@ Through this project, we demonstrated proficiency in:
 ## 📈 Future Enhancements
 
 Potential improvements for this project:
-- [ ] Extend counter to 8-bit capacity
-- [ ] Add hexadecimal display mode
-- [ ] Implement additional comparison operations
-- [ ] Add memory storage functionality
-- [ ] Create PCB layout for hardware implementation
+- Extend counter to 8-bit capacity
+- Add hexadecimal display mode
+- Implement additional comparison operations
+- Add memory storage functionality
+- Create PCB layout for hardware implementation
 
 ## 📄 License
 
