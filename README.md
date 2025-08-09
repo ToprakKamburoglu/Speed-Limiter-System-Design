@@ -205,4 +205,4 @@ Special thanks to:
 **Institution**: Kadir Has University  
 **Industry Partner**: FIGES ENGINEERING
 
-For questions or collaboration opportunities, please contact [toprakkamburoglu@gmail.com]
+For questions or collaboration opportunities, please contact toprakkamburoglu@gmail.com
