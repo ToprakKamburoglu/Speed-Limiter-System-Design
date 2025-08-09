@@ -8,7 +8,9 @@ This repository contains the final project for the **Logic Circuit Design** cour
 
 ![FIGES Engineering](images/Figes.jpg)
 
-*Industry Partner - FIGES Engineering*
+*Industry Partner - FIGES Engineering* 
+
+<br></br>
 
 </div>
 
