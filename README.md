@@ -219,4 +219,4 @@ Special thanks to:
 
 **Industry Partner**: FIGES ENGINEERING
 
-For questions or collaboration opportunities, please contact toprakkamburoglu@gmail.com
+For technical support or collaboration opportunities, please contact toprakkamburoglu@gmail.com
