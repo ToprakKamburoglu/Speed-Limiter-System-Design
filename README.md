@@ -214,7 +214,9 @@ Special thanks to:
 ---
 
 **Course**: Logic Circuit Design  
-**Institution**: Kadir Has University  
+
+**Institution**: Kadir Has University
+
 **Industry Partner**: FIGES ENGINEERING
 
 For questions or collaboration opportunities, please contact toprakkamburoglu@gmail.com
