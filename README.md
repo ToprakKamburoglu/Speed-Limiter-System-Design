@@ -79,6 +79,10 @@ Logic-Circuit-Design/
 │   ├── Figes.jpeg           # FIGES Engineering logo
 │   ├── 7segment_display.png # Display interface
 │   └── circuit_diagram.png  # Full circuit diagram
+└── Documentation/            # Additional project documents
+    ├── Circuit_Diagrams/     # Block diagrams and schematics
+    ├── Truth_Tables/         # Logic truth tables
+    └── Test_Results/         # Simulation results and verification
 ```
 
 ## 🚀 Getting Started
