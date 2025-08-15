@@ -111,7 +111,7 @@ Logic-Circuit-Design/
    - Interact with push buttons to test functionality
    - Observe LED displays and indicators
 
-## 🎮 How to Use
+## 🎮 Usage
 
 ### Operating the Counter
 1. **Start Simulation**: Click the run button
