@@ -219,4 +219,6 @@ Special thanks to:
 
 **Industry Partner**: FIGES ENGINEERING
 
+**License**: [MIT License](LICENSE)
+
 For technical support or collaboration opportunities, please contact toprakkamburoglu@gmail.com
