@@ -161,12 +161,12 @@ Logic-Circuit-Design/
 ## 🔬 Testing & Verification
 
 The project includes comprehensive testing for:
-- ✅ Counter functionality (increment/decrement)
-- ✅ BCD conversion accuracy
-- ✅ 7-segment display output
-- ✅ Comparator logic verification
-- ✅ Speed limiting operation
-- ✅ Push button responsiveness
+- Counter functionality (increment/decrement)
+- BCD conversion accuracy
+- 7-segment display output
+- Comparator logic verification
+- Speed limiting operation
+- Push button responsiveness
 
 ## 🤝 Collaboration
 
